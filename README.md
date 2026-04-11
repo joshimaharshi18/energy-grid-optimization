@@ -3,7 +3,7 @@
 **Status:** Ongoing Collaborative Research
 
 ## Project Overview
-This project focuses on minimizing the daily Operational Expenditure of an energy grid through mathematical modeling and Linear Programming (LP). We are currently formulating constraints for supply-demand equilibrium and system losses to optimize load distribution using Python-based simulations.
+This project focuses on minimizing the daily Operational Expenditure of an energy grid through mathematical modeling and Linear Programming (LP). We are currently formulating constraints for supply-demand equilibrium and system losses to optimize load distribution using R.
 
 ## Research Objectives
 * Minimize the total objective function for grid costs:
