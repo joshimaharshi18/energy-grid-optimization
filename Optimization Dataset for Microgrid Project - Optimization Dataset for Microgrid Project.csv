@@ -1,0 +1,25 @@
+Hour (t),Demand (Lt​),Max Solar (Stmax​),Max Wind (Wtmax​),"Grid Price (Cgrid,t​)",Pricing Period
+1,60,0,40,4,Off-Peak
+2,55,0,45,4,Off-Peak
+3,50,0,50,4,Off-Peak
+4,55,0,45,4,Off-Peak
+5,60,0,40,4,Off-Peak
+6,75,10,35,4,Off-Peak
+7,100,30,30,8,Mid-Peak
+8,120,60,25,8,Mid-Peak
+9,130,90,20,8,Mid-Peak
+10,125,110,25,8,Mid-Peak
+11,120,120,30,8,Mid-Peak
+12,115,120,35,8,Mid-Peak
+13,110,110,40,8,Mid-Peak
+14,115,90,45,8,Mid-Peak
+15,120,70,50,8,Mid-Peak
+16,130,40,55,8,Mid-Peak
+17,160,10,60,15,Peak
+18,190,0,55,15,Peak
+19,200,0,50,15,Peak
+20,180,0,45,15,Peak
+21,150,0,40,15,Peak
+22,120,0,40,8,Mid-Peak
+23,90,0,45,4,Off-Peak
+24,70,0,45,4,Off-Peak
