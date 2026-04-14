@@ -19,3 +19,5 @@ This project focuses on minimizing the daily Operational Expenditure of an energ
 
 ## How to Run
 *Note: The core simulation scripts are currently being refined in a private local branch. Documentation and mathematical formulations will be updated periodically.*
+
+The synthetic 24-hour time-series data used for this simulation—including Time-of-Use grid charges is uploaded
